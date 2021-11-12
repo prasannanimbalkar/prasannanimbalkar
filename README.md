@@ -23,7 +23,7 @@
 - ⚙️ &nbsp;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
    
-- 🛢 &nbsp;![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+- 📄 &nbsp;![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 <a href="https://github.com/prasannanimbalkar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasannanimbalkar&theme=buefy&show_icons=true" />

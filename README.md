@@ -18,6 +18,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![React](https://img.shields.io/badge/-React.Js-333333?style=flat&logo=react)
  
 - ⚙️ &nbsp;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

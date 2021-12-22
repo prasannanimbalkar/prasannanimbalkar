@@ -11,7 +11,7 @@
 
 <h3> 🛠 &nbsp;Technology Stack</h3>
 
-- 💻 &nbsp;![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 💻 &nbsp;![JavaScript](https://img.shields.io/badge/-Python-333333?style=flat&logo=javascript)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
 - 🛢 &nbsp;![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)

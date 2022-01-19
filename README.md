@@ -20,6 +20,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![React](https://img.shields.io/badge/-React.Js-333333?style=flat&logo=react)
+  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
  
 - ⚙️ &nbsp;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)

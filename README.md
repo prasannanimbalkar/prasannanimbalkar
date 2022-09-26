@@ -2,6 +2,8 @@
 
 <h3> 👨‍💻 Scroll down & know more about me! </h3>
 
+<h5> University GitHub Profile : https://github.com/Prasanna-Nimbalkar </h5>
+
 <!-- - 🎭 &nbsp; A storyteller who has a unique knack for presenting your data!
 - 🎓 &nbsp; Current Graduate 'Information Systems' student at Northeastern University, Boston. 
 - 🧰 &nbsp; Worked as a Data analyst Co-op at Revolutionary Integration Group, CT, USA.

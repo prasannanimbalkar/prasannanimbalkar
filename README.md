@@ -3,6 +3,10 @@
 <h3> 👨‍💻 Scroll down & know more about me! </h3>
 
 <h5> University GitHub Profile : https://github.com/Prasanna-Nimbalkar </h5>
+<h5> Codepen Profile : https://codepen.io/prasanna-nimbalkar </h5>
+<h5> P5* Profile : https://editor.p5js.org/prasannanimbalkar163/sketches </h5>
+
+
 
 <!-- - 🎭 &nbsp; A storyteller who has a unique knack for presenting your data!
 - 🎓 &nbsp; Current Graduate 'Information Systems' student at Northeastern University, Boston. 

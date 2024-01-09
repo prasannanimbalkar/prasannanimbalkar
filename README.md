@@ -7,7 +7,7 @@
 <h5> P5* Profile : https://editor.p5js.org/prasannanimbalkar163/sketches </h5>
 
 
-![GitHub Views](https://komarev.com/ghpvc/?username=prasannanimbalkar&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=prasannanimbalkar&style=flat-square&)
 
 
 

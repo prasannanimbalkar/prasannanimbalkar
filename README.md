@@ -82,6 +82,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/prasanna-nimbalkar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prasanna%20Nimbalkar-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nimbalkar.p@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Email-nimbalkar.p@northeastern.edu-blue?style=flat-square&logo=gmail"></a>
-<a href="https://prasannanimbalkar.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/-MyPortfolio-61DAFB?logo=portfolio&logoColor=white&logoWidth=30"></a> 
+<a href="https://prasannanimbalkar.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/-MyPortfolio-61DAFB?logo=portfolio&logoColor=white&logoWidth=30"></a> 
   
 </p>
